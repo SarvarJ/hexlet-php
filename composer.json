@@ -1,0 +1,13 @@
+{
+    "name": "sarvarj/hexlet-php",
+    "description": "No Description",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sarvar Jumaniyazov",
+            "email": "mymail.tm@yandex.com"
+        }
+    ],
+    "require": {}
+}
