@@ -1,5 +1,10 @@
 {
     "name": "sarvarj/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "description": "No Description",
     "type": "project",
     "license": "MIT",
